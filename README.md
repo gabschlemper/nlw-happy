@@ -1,11 +1,11 @@
 # <center>**happy**<center>
+![happy](happy.png)
 
 ## :computer: Projeto
 A ideia na semana das crianças, foi criar uma aplicação para encontrar orfanatos para visitar crianças que precisam de amor.
 
 Esse projeto foi criado durante a NLW 3, evento da [Rocketseat](https://rocketseat.com.br/) :rocket:    
   
-  ![happy](happy.png)
 
 ## :fire: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
