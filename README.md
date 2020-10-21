@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :fire: Instalacão
 Clone o repositório: `git clone `  
 Entre na pasta do projeto: `cd nlw3-happy`  
-### :wrench: **Para ligar a API **
+### :wrench: **Para ligar a API**
 Acesse a pasta do backend para rodar o servidor: `cd backend`  
 Instale as dependências: `yarn install`  
 Inicie o servidor: `yarn dev`  
